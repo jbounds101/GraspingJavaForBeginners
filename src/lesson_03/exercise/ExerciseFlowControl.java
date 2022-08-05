@@ -25,6 +25,9 @@ public class ExerciseFlowControl {
            If isStudent is false, print "Not a student!".
 
            Note: Make sure to use System.out.println and NOT System.out.print
+
+           Also: You can't directly run this file since it is passing arguments. Use the test file to ensure your
+           code implementation is correct.
          */
 
 
