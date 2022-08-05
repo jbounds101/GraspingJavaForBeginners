@@ -19,7 +19,7 @@ public class ExerciseHelloWorld {
 
 
 
-        // ^^ TYPE YOUR CODE HERE ^^
+        // TODO: ^^ TYPE YOUR CODE HERE ^^
 
         // After running, try running the TestHelloWorld file, it will let you know if the output of your program
         // is correct, if you need the actual solution, it can be found under "solution/lesson_01/SolutionHelloWorld"
