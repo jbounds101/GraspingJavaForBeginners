@@ -6,9 +6,7 @@ public class ExerciseHelloWorld {
     /* You can also make
        multi-line comments like this! */
 
-    public static void main(String[] args) { /* <- This line is where code execution will begin, so we need to place
-                                                all of our code inside this block (a block of code is a region
-                                                confined between curly braces) */
+    public static void main(String[] args) {
 
         // We want to print "Hello World!" to the standard out (which is this case, will show in the output screen)
 
@@ -23,6 +21,5 @@ public class ExerciseHelloWorld {
 
         // After running, try running the TestHelloWorld file, it will let you know if the output of your program
         // is correct, if you need the actual solution, it can be found under "solution/lesson_01/SolutionHelloWorld"
-
     }
 }
