@@ -1,0 +1,10 @@
+This is the file for testing your exercise implementation.
+
+Test cases are great for checking if your code is running properly.
+Throughout this course, every lesson will have test cases to ensure your implementation is working properly.
+
+Try running the "TestUsingIntellij" file, you will see that there are two test cases. You can see the differences
+between the expected output and the actual output of your program.
+
+Alright, now we now how to run a basic program. Move on to lesson 01 when you're ready, and you'll start writing some
+code.

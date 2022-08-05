@@ -1,4 +1,4 @@
-package lesson_01;
+package lesson_01.exercise;
 
 public class ExerciseHelloWorld {
     // Welcome to Java! This line is a comment, and doesn't actually do anything, they are useful for leaving notes.

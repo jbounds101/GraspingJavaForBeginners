@@ -1,12 +1,11 @@
-package lesson_01;
+package lesson_01.test;
+import lesson_01.exercise.*;
 
 import org.junit.jupiter.api.AfterEach;
 import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.Test;
-
 import java.io.ByteArrayOutputStream;
 import java.io.PrintStream;
-
 import static org.junit.jupiter.api.Assertions.*;
 
 class TestHelloWorld {
@@ -30,7 +29,7 @@ class TestHelloWorld {
     // Tests start here
     @Test
     public void testOutput() {
-        exerciseHelloWorld.main(new String[0]);
+        ExerciseHelloWorld.main(new String[0]);
         assertEquals("Hello World!", outContent.toString().trim());
     }
 }

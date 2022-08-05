@@ -1,0 +1,3 @@
+This is where the programming solution would be.
+
+Since there is no code to be written for this lesson, this doesn't contain any code!

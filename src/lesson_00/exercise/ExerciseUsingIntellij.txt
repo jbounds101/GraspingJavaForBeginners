@@ -1,0 +1,8 @@
+Running your code: to run code in Intellij, all you need to do is right-click the java file in the Project browser on
+the left-hand side of the screen (where you opened this file!).
+
+Run the "RunMe" file by right-clicking and selecting " Run 'RunMe.main()' "
+
+Notice the output screen at the bottom, that is where output will show up on your computer (usually!).
+
+Now, open the RunMe file, there are a few other ways to run your code.
