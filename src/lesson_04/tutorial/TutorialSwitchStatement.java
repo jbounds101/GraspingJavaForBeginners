@@ -4,7 +4,7 @@ package lesson_04.tutorial;
 
 public class TutorialSwitchStatement {
     public static void main(String[] args) {
-        int position = 4; // TODO Try changing this number to see what happens
+        int position = 1; // TODO Try changing this number to see what happens (try 2, 3, 4...)
 
         switch (position) { // A switch statement is essentially an if-else block, you specify a variable to run on
             // and use case statements to determine the effect
