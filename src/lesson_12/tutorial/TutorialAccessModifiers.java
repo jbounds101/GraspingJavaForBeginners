@@ -27,6 +27,9 @@ public class TutorialAccessModifiers {
     private static final boolean pastriesToday = true; // This belongs to the class, and can only be used by the
     // class, final means that the variable is constant, and cannot be changed
 
+    public boolean isTutorial = true; // This belongs to an object of the class, and cannot be used inside static
+    // methods, it is also public, which means it can be accessed anywhere
+
     public static void main(String[] args) {
         // So we are saying that "main" is "public" (can be accessed anywhere), "static" (a member of
         // TutorialAccessModifiers without being an object), and returns nothing (void).
