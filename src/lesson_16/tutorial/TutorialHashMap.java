@@ -11,7 +11,11 @@ import java.util.HashMap;
 public class TutorialHashMap {
     public static void main(String[] args) {
         HashMap<String, Double> costsHashMap = new HashMap<>();
-        costsHashMap.put("Donut", 1.00);
+        costsHashMap.put("Donut", 1.00); // Add the key value pair (Donut, 1.00)
+        // Donut, the key, is put into a hashing function which gives it a unique (most of the time) value
+        // What if another key produces the same hash code? Most HashMaps handle same hash codes through LinkedLists,
+        // for example, if another node produces the same hash code, it will be put as the element to the next Node
+        // value
         costsHashMap.put("Banana", 0.75);
         costsHashMap.put("Chicken", 5.00);
         costsHashMap.put("Filet Mignon", 16.25);
