@@ -4,6 +4,9 @@ package lesson_16.tutorial;
 A HashMap is a data structure used to store (key: value) pairs, where a value is represented by a key. They are very
 quick, since they use a constant time "hashing" function to produce the value from the key where the data item will
 be stored. You can search by key in constant time.
+
+Big(O) time will be explained later, just know: if you want something fast, it's probably a good idea to use a
+hash-map if required.
 */
 
 import java.util.HashMap;
