@@ -6,7 +6,7 @@ quick, since they use a constant time "hashing" function to produce the value fr
 be stored. You can search by key in constant time.
 
 Big(O) time will be explained later, just know: if you want something fast, it's probably a good idea to use a
-hash-map if required.
+hash-map if required since their time to compute doesn't scale with input size.
 */
 
 import java.util.HashMap;
